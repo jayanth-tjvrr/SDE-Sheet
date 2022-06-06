@@ -2,5 +2,5 @@
 <details open>
 <summary> Arrays [Day 1] </summary>
 <br>
-- [Set matrix zeroes](https://github.com/jayanth-tjvrr/) - [Youtube](https://www.youtube.com/watch?v=M65xBewcqcI&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=8/) - [Solution](https://www.codingninjas.com/codestudio/problems/set-matrix-zeros_3846774?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website/)
+- [Find A Duplicate Number](https://github.com/Rohithkakarla/SDE/blob/master/01-Arrays/01-FindDuplicate.md) - [YouTube](https://youtu.be/32Ll35mhWg0) - [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)
 </details>
