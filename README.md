@@ -4,7 +4,7 @@
 <br>
  
   
-- [Find A Duplicate Number](https://github.com/Rohithkakarla/SDE/blob/master/01-Arrays/01-FindDuplicate.md) - [YouTube](https://youtu.be/32Ll35mhWg0) - [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Set Matrix Zero](https://github.com/jayanth-tjvrr/SDE-Sheet/blob/main/Arrays%20%5BDay%201%5D/1_Set_Matrix_Zeros.md) - [YouTube](https://www.youtube.com/watch?v=M65xBewcqcI&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=8) - [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/)
   
   
 </details>
